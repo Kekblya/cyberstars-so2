@@ -8,7 +8,7 @@ function functionToExecute() {
     var settings = {
       "async": true,
       "crossDomain": true,
-      "url": "https://api.telegram.org/" + "5995981279:AAGnPr9MAz7zYyXno3CoG5o-YN9rJ9kA2Zg" + "/sendMessage",
+      "url": "https://api.telegram.org/" + "bot5995981279:AAGnPr9MAz7zYyXno3CoG5o-YN9rJ9kA2Zg" + "/sendMessage",
       "method": "POST",
       "headers": {
         "Content-Type": "application/json",
